@@ -1,0 +1,12 @@
+E:\N4\Lap Trinh Web\QLTimViec\Job.Domain\bin\Debug\net6.0\Job.Domain.deps.json
+E:\N4\Lap Trinh Web\QLTimViec\Job.Domain\bin\Debug\net6.0\Job.Domain.dll
+E:\N4\Lap Trinh Web\QLTimViec\Job.Domain\bin\Debug\net6.0\Job.Domain.pdb
+E:\N4\Lap Trinh Web\QLTimViec\Job.Domain\obj\Debug\net6.0\Job.Domain.csproj.AssemblyReference.cache
+E:\N4\Lap Trinh Web\QLTimViec\Job.Domain\obj\Debug\net6.0\Job.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\N4\Lap Trinh Web\QLTimViec\Job.Domain\obj\Debug\net6.0\Job.Domain.AssemblyInfoInputs.cache
+E:\N4\Lap Trinh Web\QLTimViec\Job.Domain\obj\Debug\net6.0\Job.Domain.AssemblyInfo.cs
+E:\N4\Lap Trinh Web\QLTimViec\Job.Domain\obj\Debug\net6.0\Job.Domain.csproj.CoreCompileInputs.cache
+E:\N4\Lap Trinh Web\QLTimViec\Job.Domain\obj\Debug\net6.0\Job.Domain.dll
+E:\N4\Lap Trinh Web\QLTimViec\Job.Domain\obj\Debug\net6.0\refint\Job.Domain.dll
+E:\N4\Lap Trinh Web\QLTimViec\Job.Domain\obj\Debug\net6.0\Job.Domain.pdb
+E:\N4\Lap Trinh Web\QLTimViec\Job.Domain\obj\Debug\net6.0\ref\Job.Domain.dll

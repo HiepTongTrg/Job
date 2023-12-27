@@ -1,0 +1,17 @@
+E:\N4\Lap Trinh Web\QLTimViec\Job.Infrastructure\bin\Debug\net6.0\Job.Infrastructure.deps.json
+E:\N4\Lap Trinh Web\QLTimViec\Job.Infrastructure\bin\Debug\net6.0\Job.Infrastructure.runtimeconfig.json
+E:\N4\Lap Trinh Web\QLTimViec\Job.Infrastructure\bin\Debug\net6.0\Job.Infrastructure.dll
+E:\N4\Lap Trinh Web\QLTimViec\Job.Infrastructure\bin\Debug\net6.0\Job.Infrastructure.pdb
+E:\N4\Lap Trinh Web\QLTimViec\Job.Infrastructure\bin\Debug\net6.0\Job.Domain.dll
+E:\N4\Lap Trinh Web\QLTimViec\Job.Infrastructure\bin\Debug\net6.0\Job.Domain.pdb
+E:\N4\Lap Trinh Web\QLTimViec\Job.Infrastructure\obj\Debug\net6.0\Job.Infrastructure.csproj.AssemblyReference.cache
+E:\N4\Lap Trinh Web\QLTimViec\Job.Infrastructure\obj\Debug\net6.0\Job.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\N4\Lap Trinh Web\QLTimViec\Job.Infrastructure\obj\Debug\net6.0\Job.Infrastructure.AssemblyInfoInputs.cache
+E:\N4\Lap Trinh Web\QLTimViec\Job.Infrastructure\obj\Debug\net6.0\Job.Infrastructure.AssemblyInfo.cs
+E:\N4\Lap Trinh Web\QLTimViec\Job.Infrastructure\obj\Debug\net6.0\Job.Infrastructure.csproj.CoreCompileInputs.cache
+E:\N4\Lap Trinh Web\QLTimViec\Job.Infrastructure\obj\Debug\net6.0\Job.Infrastructure.csproj.CopyComplete
+E:\N4\Lap Trinh Web\QLTimViec\Job.Infrastructure\obj\Debug\net6.0\Job.Infrastructure.dll
+E:\N4\Lap Trinh Web\QLTimViec\Job.Infrastructure\obj\Debug\net6.0\refint\Job.Infrastructure.dll
+E:\N4\Lap Trinh Web\QLTimViec\Job.Infrastructure\obj\Debug\net6.0\Job.Infrastructure.pdb
+E:\N4\Lap Trinh Web\QLTimViec\Job.Infrastructure\obj\Debug\net6.0\Job.Infrastructure.genruntimeconfig.cache
+E:\N4\Lap Trinh Web\QLTimViec\Job.Infrastructure\obj\Debug\net6.0\ref\Job.Infrastructure.dll
